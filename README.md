@@ -16,6 +16,10 @@ A complexidade inerente a esses sistemas — caracterizada por alta dimensionali
 
 ### Superfícies de Energia Potencial e Dinâmica Molecular
 
+
+<p>
+  <img src=""/>
+</p>
 Na físico-química teórica, sistemas moleculares são descritos como pontos em movimento sobre superfícies de energia potencial (Potential Energy Surfaces, PES), definidas no espaço de coordenadas nucleares (McQuarrie). Para um sistema com *N* átomos, a PES reside em um espaço de dimensão 3N − 6, o que torna sua exploração completa analiticamente impossível.
 
 Configurações estáveis correspondem a mínimos locais da superfície, enquanto estados de transição estão associados a pontos de sela. Reações químicas podem ser formalmente descritas como trajetórias contínuas sobre essa superfície, conectando regiões de mínimos por meio de caminhos de menor energia, conforme a teoria do estado de transição (Laidler).
@@ -54,7 +58,11 @@ Essa não comutatividade implica que o estado final do sistema depende fortement
 
 ## Analogia Estrutural com o Cubo Mágico
 
-A analogia com o Cubo Mágico é apresentada aqui como um **isomorfismo estrutural**, não como metáfora didática. Em ambos os sistemas existe:
+<p align="center">
+  <img src="https://github.com/heryon/Project_Hephaestus/blob/2e16827dc41949e7b1a04cae46e70976f20aafc2/Rubik's%20_Cube.png"width="500" height="500"/>
+</p>
+
+A analogia com o Cubo Mágico é apresentada aqui como um isomorfismo estrutural, não como metáfora didática. Em ambos os sistemas existe:
 
 - um espaço de estados;
 - um conjunto de operadores que transformam estados;
