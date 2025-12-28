@@ -17,10 +17,11 @@ A complexidade inerente a esses sistemas — caracterizada por alta dimensionali
 ### Superfícies de Energia Potencial e Dinâmica Molecular
 
 
-<p>
-  <img src=""/>
+<p align="center">
+  <img src="https://github.com/heryon/Project_Hephaestus/blob/740e908ce31d9d1d85a267c90d94f578a98774dc/2d_pes_water.png"/>
 </p>
-Na físico-química teórica, sistemas moleculares são descritos como pontos em movimento sobre superfícies de energia potencial (Potential Energy Surfaces, PES), definidas no espaço de coordenadas nucleares (McQuarrie). Para um sistema com *N* átomos, a PES reside em um espaço de dimensão 3N − 6, o que torna sua exploração completa analiticamente impossível.
+
+Na físico-química teórica, sistemas moleculares são descritos como pontos em movimento sobre superfícies de energia potencial (Potential Energy Surfaces, PES), definidas no espaço de coordenadas nucleares (McQuarrie). Para um sistema com N átomos, a PES reside em um espaço de dimensão 3N − 6, o que torna sua exploração completa analiticamente impossível.
 
 Configurações estáveis correspondem a mínimos locais da superfície, enquanto estados de transição estão associados a pontos de sela. Reações químicas podem ser formalmente descritas como trajetórias contínuas sobre essa superfície, conectando regiões de mínimos por meio de caminhos de menor energia, conforme a teoria do estado de transição (Laidler).
 
