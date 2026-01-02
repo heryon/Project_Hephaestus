@@ -41,6 +41,10 @@ No caso de campos de micro-ondas, o sistema molecular recebe energia de forma te
 
 ### Interação Campo Eletromagnético–Molécula
 
+<p align="center">
+  <img src="https://github.com/heryon/Project_Hephaestus/blob/dc09e0569d30b93acb0820bbc20ad5710af62638/Electromagnetic_%20Field_Molecule.png" width="50%">
+</p>
+
 A interação entre campos eletromagnéticos e moléculas é bem estabelecida na eletrodinâmica clássica e na físico-química molecular. Moléculas polares interagem com campos elétricos por meio do acoplamento entre o campo e o momento dipolar elétrico, enquanto moléculas apolares respondem via polarizabilidade induzida (Jackson).
 
 Campos oscilantes na faixa de micro-ondas acoplam-se de maneira eficiente a modos rotacionais e, indiretamente, a modos vibracionais de moléculas. Esse acoplamento modifica as energias efetivas desses modos, introduzindo termos adicionais no Hamiltoniano molecular e alterando a paisagem energética acessível.
@@ -51,6 +55,9 @@ Importante destacar que esses efeitos não se reduzem ao aquecimento térmico cl
 
 ## Micro-ondas como Operadores de Controle Não Comutativos
 
+<p align="center">
+  <img src="https://github.com/heryon/Project_Hephaestus/blob/dc09e0569d30b93acb0820bbc20ad5710af62638/Microwaves_as_Noncommutative_Control_Operators.png" width="50%">
+</p>
 Cada pulso eletromagnético aplicado ao sistema pode ser formalmente tratado como um operador temporal que transforma o estado do sistema. Em sistemas não lineares e fora do equilíbrio, esses operadores não comutam: a aplicação de dois pulsos A e B produz resultados distintos dependendo da ordem temporal (AB ≠ BA).
 
 Essa não comutatividade implica que o estado final do sistema depende fortemente da sequência histórica de pulsos aplicados, e não apenas de seus valores médios. O problema de controle passa, portanto, a ser a determinação de sequências ótimas de operadores em um espaço contínuo e de alta dimensão.
@@ -60,7 +67,7 @@ Essa não comutatividade implica que o estado final do sistema depende fortement
 ## Analogia Estrutural com o Cubo Mágico
 
 <p align="center">
-  <img src="https://github.com/heryon/Project_Hephaestus/blob/2e16827dc41949e7b1a04cae46e70976f20aafc2/Rubik's%20_Cube.png"width="500" height="500"/>
+  <img src="https://github.com/heryon/Project_Hephaestus/blob/2e16827dc41949e7b1a04cae46e70976f20aafc2/Rubik's%20_Cube.png" width="50%"/>
 </p>
 
 A analogia com o Cubo Mágico é apresentada aqui como um isomorfismo estrutural, não como metáfora didática. Em ambos os sistemas existe:
