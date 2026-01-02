@@ -8,7 +8,7 @@ A manipulação molecular por campos eletromagnéticos tem sido objeto de invest
 
 Neste trabalho, utiliza-se o termo **Manipulação Molecular** em um sentido estritamente técnico: o controle indireto das configurações acessíveis a um sistema molecular por meio da modulação de sua paisagem energética efetiva. O foco recai sobre campos eletromagnéticos na faixa de micro-ondas, originalmente empregados em processos de síntese de grafite e materiais carbonáceos, mas aqui generalizados como operadores de controle configuracional em sistemas moleculares complexos e fora do equilíbrio termodinâmico.
 
-A complexidade inerente a esses sistemas — caracterizada por alta dimensionalidade, não linearidade e dependência histórica — torna inviável qualquer tentativa de controle determinístico manual. Argumenta-se, portanto, que o uso de inteligência artificial, em particular aprendizado por reforço, emerge como consequência física inevitável da estrutura do problema, e não como escolha metodológica arbitrária.
+A complexidade inerente a esses sistemas (caracterizada por alta dimensionalidade, não linearidade e dependência histórica) torna inviável qualquer tentativa de controle determinístico manual. Argumenta-se, portanto, que o uso de inteligência artificial, em particular aprendizado por reforço, emerge como consequência física inevitável da estrutura do problema, e não como escolha metodológica arbitrária.
 
 ---
 
@@ -78,7 +78,7 @@ A analogia com o Cubo Mágico é apresentada aqui como um isomorfismo estrutural
 
 No cubo mágico, o espaço de estados é discreto e finito, e os operadores são rotações de faces. No sistema molecular, o espaço de estados é contínuo e de altíssima dimensão, e os operadores são pulsos eletromagnéticos parametrizados por frequência, amplitude e duração.
 
-A diferença fundamental reside na continuidade do espaço molecular, que impede qualquer enumeração explícita dos estados. Ainda assim, a estrutura matemática do problema — encontrar uma sequência de operadores que leve de um estado inicial a um estado alvo — é formalmente análoga.
+A diferença fundamental reside na continuidade do espaço molecular, que impede qualquer enumeração explícita dos estados. Ainda assim, a estrutura matemática do problema (encontrar uma sequência de operadores que leve de um estado inicial a um estado alvo) é formalmente análoga.
 
 ---
 
@@ -108,7 +108,7 @@ Este trabalho apresentou uma fundamentação rigorosa para o conceito de manipul
 
 Demonstrou-se que a manipulação ocorre por controle indireto da paisagem de energia potencial, e que pulsos eletromagnéticos atuam como operadores não comutativos em sistemas historicamente dependentes. A analogia estrutural com o cubo mágico elucidou a natureza sequencial do problema, enquanto a análise de complexidade justificou formalmente o uso de inteligência artificial.
 
-Conclui-se que, para sistemas moleculares fora do equilíbrio de relevância prática — como aqueles envolvidos na síntese de grafite e materiais avançados — o uso de IA não é opcional, mas fisicamente inevitável.
+Conclui-se que, para sistemas moleculares fora do equilíbrio de relevância prática (como aqueles envolvidos na síntese de grafite e materiais avançados) o uso de IA não é opcional, mas fisicamente inevitável.
 
 ---
 
