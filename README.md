@@ -56,7 +56,7 @@ Importante destacar que esses efeitos não se reduzem ao aquecimento térmico cl
 ## Micro-ondas como Operadores de Controle Não Comutativos
 
 <p align="center">
-  <img src="https://github.com/heryon/Project_Hephaestus/blob/dc09e0569d30b93acb0820bbc20ad5710af62638/Microwaves_as_Noncommutative_Control_Operators.png" width="50%">
+  <img src="https://github.com/heryon/Project_Hephaestus/blob/dc09e0569d30b93acb0820bbc20ad5710af62638/Microwaves_as_Noncommutative_Control_Operators.png" width="60%">
 </p>
 Cada pulso eletromagnético aplicado ao sistema pode ser formalmente tratado como um operador temporal que transforma o estado do sistema. Em sistemas não lineares e fora do equilíbrio, esses operadores não comutam: a aplicação de dois pulsos A e B produz resultados distintos dependendo da ordem temporal (AB ≠ BA).
 
